@@ -26,14 +26,14 @@ _Originally for [the node subreddit](https://www.reddit.com/r/node), thus the JS
    * **Angular: Go with Analog JS**.
    * **Svelte: Go with Svelte(Kit)**.
    * **Solid: Go with SolidStart**
-   * *note: for all of these leaf nodes, this means you're probably using the framework's built-in server, often Nitro/H3, but you can also easily use* ***Hono****, etc too*
+   * *note: for all of these leaf nodes, this means you're probably using the framework's built-in server, often Nitro/H3, but you can also easily use **Hono**, etc too*
    * *BYO DB "can do" attitude preferred*
 8. Do you secretly like Preact or Deno?
    * **Yes: Go with Deno Fresh**
    * No: Go to 9.
 9. Do you like Vite?
    * **Yes: Go with Remix/React-Router**
-   * **No: Go with Next JS**
+   * **No: Go with Next JS**.
 10. Do you like the idea of having type-safe requests in your frontend?
    * Yes: Go to 11
    * No: Go to 12.
